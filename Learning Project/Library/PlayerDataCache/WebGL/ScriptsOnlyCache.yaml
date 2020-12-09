@@ -66,9 +66,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12208}
     - Class: 114
-      Script: {instanceID: 12688}
+      Script: {instanceID: 12686}
     - Class: 114
-      Script: {instanceID: 13040}
+      Script: {instanceID: 13038}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -135,15 +135,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12474}
     - Class: 114
-      Script: {instanceID: 12688}
+      Script: {instanceID: 12686}
     - Class: 114
-      Script: {instanceID: 12822}
+      Script: {instanceID: 12820}
     - Class: 114
-      Script: {instanceID: 12986}
+      Script: {instanceID: 12984}
     - Class: 114
-      Script: {instanceID: 13040}
+      Script: {instanceID: 13038}
     - Class: 114
-      Script: {instanceID: 13044}
+      Script: {instanceID: 13042}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -210,13 +210,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12474}
     - Class: 114
-      Script: {instanceID: 12688}
+      Script: {instanceID: 12686}
     - Class: 114
-      Script: {instanceID: 12822}
+      Script: {instanceID: 12820}
     - Class: 114
-      Script: {instanceID: 12986}
+      Script: {instanceID: 12984}
     - Class: 114
-      Script: {instanceID: 13044}
+      Script: {instanceID: 13042}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -285,15 +285,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12474}
     - Class: 114
-      Script: {instanceID: 12688}
+      Script: {instanceID: 12686}
     - Class: 114
-      Script: {instanceID: 12822}
+      Script: {instanceID: 12820}
     - Class: 114
-      Script: {instanceID: 12986}
+      Script: {instanceID: 12984}
     - Class: 114
-      Script: {instanceID: 13040}
+      Script: {instanceID: 13038}
     - Class: 114
-      Script: {instanceID: 13044}
+      Script: {instanceID: 13042}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -362,15 +362,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12474}
     - Class: 114
-      Script: {instanceID: 12688}
+      Script: {instanceID: 12686}
     - Class: 114
-      Script: {instanceID: 12822}
+      Script: {instanceID: 12820}
     - Class: 114
-      Script: {instanceID: 12986}
+      Script: {instanceID: 12984}
     - Class: 114
-      Script: {instanceID: 13040}
+      Script: {instanceID: 13038}
     - Class: 114
-      Script: {instanceID: 13044}
+      Script: {instanceID: 13042}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -439,15 +439,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12474}
     - Class: 114
-      Script: {instanceID: 12688}
+      Script: {instanceID: 12686}
     - Class: 114
-      Script: {instanceID: 12822}
+      Script: {instanceID: 12820}
     - Class: 114
-      Script: {instanceID: 12986}
+      Script: {instanceID: 12984}
     - Class: 114
-      Script: {instanceID: 13040}
+      Script: {instanceID: 13038}
     - Class: 114
-      Script: {instanceID: 13044}
+      Script: {instanceID: 13042}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -498,9 +498,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12368}
     - Class: 114
-      Script: {instanceID: 12688}
+      Script: {instanceID: 12686}
     - Class: 114
-      Script: {instanceID: 13040}
+      Script: {instanceID: 13038}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -999,4 +999,4 @@ ScriptsOnlyBuild:
   - Assets/Levels/Level4.unity
   - Assets/Levels/Level5.unity
   - Assets/Levels/Credits.unity
-  playerPath: /home/icemonkey/Learning Project/Builds/WebGL/SLOX/sloxwebgl
+  playerPath: /Users/lukegedeon/Projects/unity/Learning Project/Builds/WebGL/SLOX/sloxwebgl

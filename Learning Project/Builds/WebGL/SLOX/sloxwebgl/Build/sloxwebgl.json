@@ -1,0 +1,16 @@
+{
+"companyName": "Gedeon Media",
+"productName": "SLOX",
+"productVersion": "0.1",
+"dataUrl": "sloxwebgl.data.unityweb",
+"wasmCodeUrl": "sloxwebgl.wasm",
+"wasmFrameworkUrl": "sloxwebgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#E2E2E2",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
